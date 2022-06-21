@@ -32,7 +32,7 @@ A website that let the users search for Tutors all over the world and if the use
 
 ## Wireframes
 
-[WireFrames](https://www.figma.com)
+[WireFrames](https://www.figma.com/file/A9zoG3joO5Yb62plvSJY38/TUTORium?node-id=0%3A1)
 
 ## Users Stories
 
