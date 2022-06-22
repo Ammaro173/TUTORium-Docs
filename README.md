@@ -52,7 +52,7 @@ For the front end, if the user is not signed in, he will have access to the home
 
 When the user enters the web page, he starts by logging into our website with the username and password. this will generate an access token for the user, this will get the user's data from the first table (Users table), and will grant him the ability to add his own portfolio.
 
-## Vision:
+## Vision
 
 To create web app to make the user search for a suitable Tutors and contact them.
 

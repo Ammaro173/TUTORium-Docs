@@ -1,6 +1,6 @@
 # Team-Agreement
 
-## Members Names:
+## Members Names
 
 1. _Ammar Abul-Feilat_
 2. _Ayat Albqoor_
@@ -12,16 +12,6 @@
 ## Cooperation Plan
 
 - What are the key strengths of each person on the team?
-
-  Obada Jaber: patient, work under pressure , collaborative person.
-
-  Ahmed Zatar: disciplined, work under pressure, creative , have background as fullstack.
-
-  Hamza Qahoush : smart, wise, esay going, have background as backend.
-
-  Abdalrahman Samara : hard working, clever , polite, have background as frontend.
-
-  Doa'a Obeidat: wise, clever have background as fullstack software enginner.
 
 - How can you best utilize these strengths in the execution of your project?
 
