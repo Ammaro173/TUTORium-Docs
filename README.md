@@ -66,11 +66,6 @@ To create web app to make the user search for a suitable Tutors and contact them
 4. Users will be able to "Rate" their Tutors.
 5. Each User will Have His own portfolio whether they are Students or Tutors.
 
-### out
-
-1. My website will never turn into an IOS or Android app.
-2. My website will never make a booking for a Tutors (No Payment methods).
-
 ## Minimum Viable Product
 
 1. An admin can create and delete user accounts.
@@ -78,6 +73,8 @@ To create web app to make the user search for a suitable Tutors and contact them
 3. A user can search all of the Tutors in the web app.
 4. A user can signin and logout.
 5. deliver a good GUI.
+6. Calendar system.
+7. Video Chat system.
 
 ## Data Flow
 
